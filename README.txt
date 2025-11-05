@@ -8,4 +8,6 @@ Taylor_expan - 多项式层实现
 
 feature_selected - 示例数据集
 
-需先安装“Parallel Computing Toolbox”和“Statistics and Machine Learning Toolbox”工具箱
+
+相关CHB原数据集可以从https://drive.google.com/file/d/1SoGdJ7iSehJwy7T9QMhzwCABOfWlBHvh/view?usp=sharing下载
+相关Bonn数据集参考Indications of nonlinear deterministic and finite-dimensional structures in time series of brain electrical activity Dependence on recording region and brain state
